@@ -1,4 +1,4 @@
-### Opa, tudo bem? Me chamo Rodrigo Queiroz👋
+### 👋 Opa, tudo bem? Me chamo Rodrigo Queiroz, e aqui você pode conhecer um pouco mais dos meus projetos e quem eu sou, seja bem vindo ao meu perfil!
 
 - Tenho 3 Anos de experexperiência na área de Testes 🗓️
 - Curso Sistema De Informação na <a href="https://www.instagram.com/unex.oficial/">UNEX </a> 📚
