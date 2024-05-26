@@ -1,11 +1,11 @@
 ### Opa, tudo bem? Me chamo Rodrigo Queiroz👋
 
 - Tenho 3 Anos de experexperiência na área de Testes 🗓️
-- Curso Sistema De Informação na @<a href="https://www.instagram.com/unex.oficial/">UNEX </a> 📚
+- Curso Sistema De Informação na <a href="https://www.instagram.com/unex.oficial/">UNEX </a> 📚
 - Tenho 22 anos 🎂
-- Atualmente sou QE Software Engineer na @<a href="https://www.instagram.com/docktech_/">Dock Tech</a> 🖥️
+- Atualmente sou QE Software Engineer na <a href="https://www.instagram.com/docktech_/">Dock Tech</a> 🖥️
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoqueir0z&theme=dark&show_icons=true)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoqueir0z&theme=dark&show_icons=true)
 
 ##
 
@@ -16,8 +16,7 @@
   <a href="https://www.linkedin.com/in/rodrigo-queiroz-5a36521ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:rodrigocabralqueiroz123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/rodrigocabralqueiroz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://wa.me/+5573988856057"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://github.com/RodrigoQueiroz001"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/RodrigoQueir0z"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   
 <div>
 
