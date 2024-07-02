@@ -1,11 +1,11 @@
-### 👋 Opa, tudo bem? Me chamo Rodrigo Queiroz, e aqui você pode conhecer um pouco mais dos meus projetos e quem eu sou, seja bem vindo ao meu perfil!
+### Seja Bem vindo ao meu perfi! 
 
-- Tenho 3 Anos de experexperiência na área de Testes 🗓️
+- Tenho mais de 3 Anos de experexperiência na área de Testes/Automação 🗓️
 - Curso Sistema De Informação na <a href="https://www.instagram.com/unex.oficial/">UNEX </a> 📚
 - Tenho 22 anos 🎂
 - Atualmente sou QE Software Engineer na <a href="https://www.instagram.com/docktech_/">Dock Tech</a> 🖥️
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoqueir0z&theme=dark&show_icons=true)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoQueir0z&rank_icon=github&theme=radical&show_icons=true&include_all_commits=true&them=radical)
 
 ##
 
