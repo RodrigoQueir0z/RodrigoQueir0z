@@ -1,6 +1,6 @@
 ### Seja Bem vindo ao meu perfi! 
 
-- Tenho mais de 3 Anos de experexperiência na área de Testes/Automação 🗓️
+- Tenho mais de 3 Anos de experiência na área de Testes/Automação 🗓️
 - Curso Sistema De Informação na <a href="https://www.instagram.com/unex.oficial/">UNEX </a> 📚
 - Tenho 22 anos 🎂
 - Atualmente sou QE Software Engineer na <a href="https://www.instagram.com/docktech_/">Dock Tech</a> 🖥️
